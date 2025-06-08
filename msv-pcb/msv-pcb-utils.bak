@@ -73,7 +73,7 @@
 						)
 					)
 				)
-				(number "6"
+				(number "9"
 					(effects
 						(font
 							(size 0.7874 0.7874)
@@ -91,7 +91,7 @@
 						)
 					)
 				)
-				(number "4"
+				(number "10"
 					(effects
 						(font
 							(size 0.7874 0.7874)
@@ -109,7 +109,7 @@
 						)
 					)
 				)
-				(number "6"
+				(number "11"
 					(effects
 						(font
 							(size 0.7874 0.7874)
@@ -117,7 +117,7 @@
 					)
 				)
 			)
-			(pin power_out line
+			(pin power_in line
 				(at 1.27 12.7 270)
 				(length 2.54)
 				(name "GND"
@@ -127,7 +127,7 @@
 						)
 					)
 				)
-				(number "4"
+				(number "12"
 					(effects
 						(font
 							(size 0.7874 0.7874)
@@ -181,7 +181,7 @@
 						)
 					)
 				)
-				(number "2"
+				(number "3"
 					(effects
 						(font
 							(size 0.7874 0.7874)
@@ -199,7 +199,7 @@
 						)
 					)
 				)
-				(number "2"
+				(number "4"
 					(effects
 						(font
 							(size 0.7874 0.7874)
@@ -217,7 +217,7 @@
 						)
 					)
 				)
-				(number "2"
+				(number "5"
 					(effects
 						(font
 							(size 0.7874 0.7874)
@@ -225,7 +225,7 @@
 					)
 				)
 			)
-			(pin power_out line
+			(pin power_in line
 				(at 11.43 -3.81 180)
 				(length 2.54)
 				(name "GND"
@@ -235,7 +235,7 @@
 						)
 					)
 				)
-				(number "2"
+				(number "6"
 					(effects
 						(font
 							(size 0.7874 0.7874)
@@ -253,7 +253,7 @@
 						)
 					)
 				)
-				(number "2"
+				(number "7"
 					(effects
 						(font
 							(size 0.7874 0.7874)
@@ -271,7 +271,7 @@
 						)
 					)
 				)
-				(number "2"
+				(number "8"
 					(effects
 						(font
 							(size 0.7874 0.7874)
