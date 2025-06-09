@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "msv-pcb-utils")(type "KiCad")(uri "${KIPRJMOD}/msv-pcb-utils.pretty")(options "")(descr ""))
+)
